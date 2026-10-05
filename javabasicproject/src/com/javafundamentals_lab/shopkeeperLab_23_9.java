@@ -6,7 +6,7 @@ If you decide to buy 10 chocolates and 5 cookies,
 write a Java program to calculate how much money will remain after your purchase.
 */
 
-package com.javafundamentals;
+package com.javafundamentals_lab;
 
 public class shopkeeperLab_23_9 {
 	
