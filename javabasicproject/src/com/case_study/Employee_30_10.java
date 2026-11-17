@@ -4,7 +4,7 @@ Initialize the values using a parameterized constructor and
 create methods to calculate a 10% bonus and 
 display the employee details including the final salary.
  */
-package case_study;
+package com.case_study;
 
 import java.util.Scanner;
 
